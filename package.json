@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "gtts": "^0.2.1",
+    "recognition": "^0.0.1",
+    "speech": "^0.2.1",
+    "translate": "^3.0.0"
+  }
+}
